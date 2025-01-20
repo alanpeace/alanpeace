@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fybz1-1.fna.fbcdn.net/v/t39.30808-6/474480186_540406729047573_3642247704818191495_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7a0FFXbGgacQ7kNvgFmyGng&_nc_zt=23&_nc_ht=scontent.fybz1-1.fna&_nc_gid=AbDL93MsRfcg7CkqfW4JK53&oh=00_AYBFVwuDtIxWG9dDGzMtA7uTcXQbUhubc3TkpcKC8c74DQ&oe=67947A80)
+[![MasterHead]([https://scontent.fybz1-1.fna.fbcdn.net/v/t39.30808-6/474480186_540406729047573_3642247704818191495_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7a0FFXbGgacQ7kNvgFmyGng&_nc_zt=23&_nc_ht=scontent.fybz1-1.fna&_nc_gid=AbDL93MsRfcg7CkqfW4JK53&oh=00_AYBFVwuDtIxWG9dDGzMtA7uTcXQbUhubc3TkpcKC8c74DQ&oe=67947A80](https://emeritus.org/wp-content/uploads/sites/3/2022/02/pc-data-science.jpg))
 <h3 align="center">Applied AI Developer | Generative AI Specialist | LLM Innovator| Tableau & PowerBI Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://engbaris.my.canva.site/welcome-to-my-portfolioo](https://engbaris.my.canva.site/welcome-to-my-portfolioo)
