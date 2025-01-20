@@ -1,4 +1,4 @@
- [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.inventateq.com/top-stories/wp-content/uploads/2024/05/bigdata2.png.webp))
+ [![MasterHead](https://www.inventateq.com/top-stories/wp-content/uploads/2024/05/bigdata2.png.webp)
  
 <h3 align="center">Applied AI Developer | Generative AI Specialist | LLM Innovator| Tableau & PowerBI Analyst</h3>
 
